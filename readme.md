@@ -1,0 +1,1 @@
+Front-end design of an image library created using Bootstrap CSS library, containing adjustable menu items in the Bootstrap navigation bar.
